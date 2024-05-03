@@ -1,0 +1,31 @@
+.productItem {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  
+  .productHeader {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .productCount {
+    margin-bottom: 10px;
+  }
+  
+  .button {
+    padding: 5px 10px;
+    margin-right: 5px;
+    font-size: 16px;
+    color: #333;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #ddd;
+  }
